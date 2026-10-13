@@ -1,0 +1,7 @@
+# PromiseLedger — Python Dependencies
+# Note: backend/claim_extractor.py uses Python 3 standard library only (zero external dependencies required).
+# Optional packages for backend API and test runner:
+pytest>=8.0.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-dotenv>=1.0.1

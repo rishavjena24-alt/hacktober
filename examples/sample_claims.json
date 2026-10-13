@@ -1,0 +1,46 @@
+{
+  "claims": [
+    {
+      "claim_id": "c1",
+      "action": "read_file",
+      "target": "file1.txt",
+      "source_text": "I inspected all five files",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "c2",
+      "action": "read_file",
+      "target": "file2.txt",
+      "source_text": "I inspected all five files",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "c3",
+      "action": "read_file",
+      "target": "file3.txt",
+      "source_text": "I inspected all five files",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "c4",
+      "action": "read_file",
+      "target": "file4.txt",
+      "source_text": "I inspected all five files",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "c5",
+      "action": "read_file",
+      "target": "file5.txt",
+      "source_text": "I inspected all five files",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "c6",
+      "action": "generate_report",
+      "target": "report.md",
+      "source_text": "generated the report",
+      "confidence": 0.93
+    }
+  ]
+}
